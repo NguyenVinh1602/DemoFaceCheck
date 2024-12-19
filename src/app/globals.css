@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-primary{
+     @apply w-[180px] font-semibold bg-[#2A2D35] hover:bg-gray-500 py-1 rounded;
+ }
